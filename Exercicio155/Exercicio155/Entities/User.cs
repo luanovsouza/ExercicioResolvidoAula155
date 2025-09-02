@@ -10,4 +10,22 @@ public class User
         Name = name;
         AcessTime = acessTime;
     }
+
+
+    public override int GetHashCode()
+    {
+        return Name.GetHashCode();
+    }
+
+    public override bool Equals(object? obj)
+    {
+        if (!(obj is User))
+        {
+            return false;
+        }
+        
+        User? other = obj as User;
+
+        return Name.Equals(other.Name);
+    }
 }
