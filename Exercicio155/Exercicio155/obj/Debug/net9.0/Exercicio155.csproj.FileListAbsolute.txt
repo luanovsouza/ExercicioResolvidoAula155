@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\bin\Debug\net9.0\Exercicio155.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\bin\Debug\net9.0\Exercicio155.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\bin\Debug\net9.0\Exercicio155.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\bin\Debug\net9.0\Exercicio155.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\bin\Debug\net9.0\Exercicio155.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.sourcelink.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\refint\Exercicio155.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\Exercicio155.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção13\Exercicio ResolvidoAula155\ExercicioResolvidoAula155\Exercicio155\Exercicio155\obj\Debug\net9.0\ref\Exercicio155.dll
